@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(26): warning C4018: '<': signed/unsigned mismatch
+main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+main.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Task19.vcxproj -> E:\Programing\C++\Task19\Debug\Task19.exe
+  Task19.vcxproj -> E:\Programing\C++\Task19\Debug\Task19.pdb (Partial PDB)

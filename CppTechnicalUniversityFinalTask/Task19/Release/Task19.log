@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(26): warning C4018: '<': signed/unsigned mismatch
+main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+main.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Task19.vcxproj -> E:\Programing\C++\Task19\Release\Task19.exe
+  Task19.vcxproj -> E:\Programing\C++\Task19\Release\Task19.pdb (Full PDB)
